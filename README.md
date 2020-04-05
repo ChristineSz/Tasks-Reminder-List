@@ -2,7 +2,7 @@
 
 Web Application
 
-Familiarizted with:
+Familiarizated with:
 
 -Sublimetext -Text editor
 
